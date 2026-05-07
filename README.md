@@ -30,7 +30,7 @@ Desarrollar un módulo funcional de software web aplicando el framework Vue 3, i
 - Detección de ubicación del usuario
 - Solicitud de viajes
 - Selección de origen y destino
-- Cálculo de tarifa según vehículo
+- Cálculo de tarifa según tipo de vehículo
 - Asignación simulada de conductor
 - Confirmación de viaje
 - Sistema de calificación
